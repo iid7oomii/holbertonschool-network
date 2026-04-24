@@ -1,2 +1,5 @@
-2
-2
+#!/usr/bin/env bash
+# This script contains the answers to the OSI model quiz
+
+echo "2"
+echo "2"
